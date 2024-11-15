@@ -22,8 +22,8 @@ Para ejecutar este proyecto en tu máquina local, asegúrate de tener lo siguien
 
 ## Integrantes 
 
--Sebastián Torres
--David Cabrera
--Gustavo Castillo
--Osvaldo Velasco
--Perla Vázquez
+- Sebastián Torres
+- David Cabrera
+- Gustavo Castillo
+- Osvaldo Velasco
+- Perla Vázquez
