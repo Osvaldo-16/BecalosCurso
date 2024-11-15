@@ -2,7 +2,7 @@
 
 Este proyecto es una simulación de la página principal de **GitHub**. Este proyecto tiene como objetivo **familiarizarnos con el uso de etiquetas HTML** mediante la creación de una página web que simula la interfaz de GitHub. A través de este proyecto, aprendimos a usar diversas etiquetas HTML para estructurar una página web.
 
-![Logo de GitHub](imagenes/pngegg.png)
+<img src="./imagenes/pngegg.png" alt="Imagen de logo de GitHub" width="200"/>
 
 # Descripción del Flujo de Trabajo 
 
